@@ -1,0 +1,13 @@
+D:\bsk project\bsk_nr_1\bsk_nr_1\bin\Debug\bsk_nr_1.exe.config
+D:\bsk project\bsk_nr_1\bsk_nr_1\bin\Debug\bsk_nr_1.exe
+D:\bsk project\bsk_nr_1\bsk_nr_1\bin\Debug\bsk_nr_1.pdb
+D:\bsk project\bsk_nr_1\bsk_nr_1\obj\Debug\bsk_nr_1.exe
+D:\bsk project\bsk_nr_1\bsk_nr_1\obj\Debug\bsk_nr_1.pdb
+D:\bsk project\bsk_nr_1\bsk_nr_1\obj\Debug\bsk_nr_1.csprojResolveAssemblyReference.cache
+E:\bsk\bsk_nr_1\bsk_nr_1\bin\Debug\bsk_nr_1.exe.config
+E:\bsk\bsk_nr_1\bsk_nr_1\bin\Debug\bsk_nr_1.exe
+E:\bsk\bsk_nr_1\bsk_nr_1\bin\Debug\bsk_nr_1.pdb
+E:\bsk\bsk_nr_1\bsk_nr_1\obj\Debug\bsk_nr_1.csprojAssemblyReference.cache
+E:\bsk\bsk_nr_1\bsk_nr_1\obj\Debug\bsk_nr_1.csproj.CoreCompileInputs.cache
+E:\bsk\bsk_nr_1\bsk_nr_1\obj\Debug\bsk_nr_1.exe
+E:\bsk\bsk_nr_1\bsk_nr_1\obj\Debug\bsk_nr_1.pdb
